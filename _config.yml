@@ -1,11 +1,11 @@
 # Site settings
 author: Matthew Sherman
-title: 
+title: DudesWhoCode
 header-img: img/home-bg.png
 email: msherman0801@gmail.com
 copyright_name: Matthew Sherman
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Flatiron School student sharing his experience throughout the camp.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  msherman0801
