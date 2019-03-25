@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "My Sinatra Project"
-date:       2019-03-25 21:50:39 +0000
+title:      "DishBuddy - My Sinatra Project"
+date:       2019-03-25 17:50:40 -0400
 permalink:  my_sinatra_project
 ---
 
